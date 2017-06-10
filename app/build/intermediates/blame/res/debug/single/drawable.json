@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/build/intermediates/res/merged/debug/drawable/taipei_101.jpg",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/src/main/res/drawable/taipei_101.jpg"
+    },
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/build/intermediates/res/merged/debug/drawable/obama.jpg",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/src/main/res/drawable/obama.jpg"
+    },
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/build/intermediates/res/merged/debug/drawable/road_rage.jpg",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/src/main/res/drawable/road_rage.jpg"
+    },
+    {
+        "merged": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/build/intermediates/res/merged/debug/drawable/world.gif",
+        "source": "/home/wz/MyComputer/e/android源码/小说阅读器源码/android_page_curl-master/app/src/main/res/drawable/world.gif"
+    }
+]
